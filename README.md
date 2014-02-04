@@ -6,6 +6,6 @@ Lightweight Codemirror directive for Angular.js
 
 Usage:
 =====
-<div ng-codemirror ng-model="codeValue"></div>
+&lt;div ng-codemirror ng-model="codeValue"&gt;&lt;/div&gt;
 
 Will update model, and scope properly.
